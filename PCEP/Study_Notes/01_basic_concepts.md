@@ -81,3 +81,9 @@ class = "Math"  # SyntaxError (class is a keyword)
 Age = 20  
 print(age)  # NameError (Age ≠ age)
 ```
+
+---
+
+🎉 **Congratulation!!** 
+
+You have completed the section **basic concepts**, now you can go to the [basic concepts questions clicking here](../Practice_Exams_Questions/01_basic_concepts.md).
