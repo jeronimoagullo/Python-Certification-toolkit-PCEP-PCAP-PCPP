@@ -38,13 +38,15 @@ if True:
 ### Comments
 - **Single-line**: `#` This is a comment
 - **Multi-line**: Use `'''...'''` or `"""..."""`:
-
+ 
 ```python
 '''  
 This is a  
 multi-line comment  
 '''
 ```
+
+- **TIP:** We can comment and decomment rapidly with the keyboard shortcut **CTRL + /** in english keyboards, **CTRL + }** in spanish keyboards or **CTRL + #** in german keyboards.
 
 ## 🔑 3. Keywords & Identifiers
 
